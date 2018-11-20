@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="celsius">%1$s \u2103 C</string>
+    <string name="percent">%1$d \%% </string>
+    <string name="ms">%1$d m/s</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="no_location_detected">No location detected. Make sure location is enabled on the device.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="remove">Remove</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+    <string name="copyright">© 2018 okkio</string>
+    <string name="based_on">Based on openweathermap.org api\'s data.</string>
+    <string name="search_city">Search City</string>
+    <string name="search_hint">City name or zip-code.</string>
+    <string name="city_name_country">%1$s, %2$s</string>
+    <string name="loading">Loading....</string>
+    <string name="error">Some error occurred!!</string>
+</resources>
